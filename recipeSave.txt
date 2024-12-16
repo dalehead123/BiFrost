@@ -1,0 +1,23 @@
+Toasted Cheese,5,500,American,Bread,Cheese,Butter
+Fried Rice,15,800,Asian,Rice,Butter,Onions,SoySauce,Eggs
+Hamburger,10,1000,American,Bread,Beef,Cheese,Lettuce,Tomato
+Pork Chops,10,600,German,Pork,Butter,Garlic Salt,Onion Salt
+Clam Chowder,25,500,American,Clams,Crab,Onion,Parsley,Potatoes,Heavy Cream,Thyme
+Chicken Fajitas,120,880,Mexican,Chicken,Corn,Blackbeans,Salsa,Taco Seasoning,Tortillas
+French Toast,5,500,French,Bread,Eggs,Milk,Pure Vanilla,Sugar,Maple Syrup
+Farmers Omlete,5,350,American,Egg,Bacon,Green Peppers,Onion,Salt,Pepper,Cheddar Cheese
+Texas Cake,25,800,American,Flour,Sugar,Butter,Coco,Pure Vanilla,Salt,Baking Soda,Confectioners Sugar,Walnuts
+Lasagna,45,500,Italian,Lasagna Noodles,Hamburger,Tomato Sauce,Ricotta Cheese,Egg,Parsley,Italian Seasoning,Mozzarella Cheese
+Con Queso Dip,5,200,Mexican,Velveeta Cheese,Tomato Salsa
+Seven Layer Salad,20,200,American,Lettuce,Celery,Red Onion,Peas,Cheese,Bacon,Mayonnaise,Sugar
+Chili,45,750,American,Hamburger,Diced Tomato,Tomato Sauce,Kidney Beans,Chili Powder,Garlic Powder,Ground Cumin,Smoked Paprika,Salt,Pepper
+Escargots ala Bourguignonne,10,400,French,Garlic Clove,Salt,Unsalted Butter,Shallot,Flat Leaf Parsley,Black Pepper,Dry White Wine,Fourteen Snails
+Sushi Rice,20,550,Japanese,Nori,Low Sodium Soy Sauce,Toasted Sesame Seeds,Siracha Chili Sauce,Wasabi,Pickled Ginger
+Curry Shrimp and Rice,20,1000,Indian,Butter,Onion,Chicken Broth,Diced Potatoes,White Corn,Coconut Milk,Bamboo Shoots,Curry Powder,Thai Red Chili Paste,Salt,Pepper,Deveined Cooked Shrimp,Long Grain Rice,Fresh Basil
+Dublin Coddle,45,750,Irish,Bacon,Bratwurst Sausages,Parsley,Yukon Gold Potatoes,Chicken Broth,Black Pepper,Apple Cider Vinegar,Beer,White Onions
+Beef Wellington,60,1200,British,Centercut Beef Tenderloin,Cosher Salt,Black Pepper,Olive Oil,Dijon Mustard,Mushrooms,Shalet,Thyme,Unsalted Butter,Prosciutto,Flour,Puff Pastry,Egg
+Gyros,30,650,Mediteranean,Lamb,Thyme,Garlic,Aregano,Rosemary,Olive Oil,Lemon,Salt,Black Pepper,Peta Bread,Tomatoes,Lettuce,Fetta Cheese,Tzatziki Sauce,Sour Cream
+Pineapple Lump Slice,30,400,Australian,Butter,Condensed Milk,Malt Biscuts,Frozen Pineapple,Milk Chocolate,Canola Oil
+Goulash,90,500,Hungarian,Onions,Beef,Hungarian Paprika,Butter,Beef Broth,Tomatoes,Salt,Pepper,Spaetzle,Caraway Seeeds,Flour
+Chicken Adobo,50,800,Filipino,Canola Oil,Chicken Legs and Thighs,Salt,Bay Leaves,Whole Black Pepper Corns,Water,Soy Sauce,Rice Vinegar,Garlic,Rice
+Apple Strudel,40,500,Austria,Granny Smith Apples,Lemon Juice,Pure Vanilla,Brown Sugar,Grounded Cinnamon,Flour,Golden Raisins,Puff Pastry,Egg,Milk,Sugar
